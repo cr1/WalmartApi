@@ -1,4 +1,4 @@
-# C# Newegg API
+# C# JSON Walmart API
 This API was built to pull product information from Walmart's Open API. Requires a valid apiKey added to the app.config file
 Documentation is available at [Walmart Labs](https://developer.walmartlabs.com/docs/read/Home).
 
